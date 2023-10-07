@@ -1,0 +1,19 @@
+{
+	"modules": { 
+		"Radio": {
+			"version": "1.0",
+			"name": "radio",
+			"rules": {
+				"franceInfo": ["france * info","france info radio"],
+				"nostalgie": ["nostalgia","nostalgia radio","radio nostalgia"],
+				"europe 1": ["europe 1 radio","europe 1"],
+				"rmc": ["rmc","rmc radio"],
+				"abcLounge": ["abc lounge","abc lounge radio"],
+				"radioSoleil": ["sun","sun radio"],
+				"radioMaghreb": ["france maghreb","france maghreb radio"],
+				"arretRadio": ["stop * radio","stop the radio"]
+			}
+		}
+	}
+}
+			
