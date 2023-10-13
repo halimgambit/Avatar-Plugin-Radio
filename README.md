@@ -6,4 +6,4 @@
 - met france info ou met la radio france info, aussi pour nostalgie et abc lounge
 - arrete la radio
 
-https://github.com/halimgambit/Avatar-Plugin-Radio/blob/main/assets/images/Radio.png
+
