@@ -5,5 +5,3 @@
 - les regles:
 - met france info ou met la radio france info, aussi pour nostalgie et abc lounge
 - arrete la radio
-
-[alt text](http://url/to/img.png)
